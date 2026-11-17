@@ -1,0 +1,1020 @@
+[
+ {
+  "id": "J001",
+  "role": "ai_engineer",
+  "title": "AI Engineer",
+  "company": "DataHarbor",
+  "location": "Pune",
+  "min_years": 2,
+  "skills": [
+   "fastapi",
+   "tool calling",
+   "python",
+   "langgraph",
+   "prompt engineering",
+   "llm"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with fastapi, tool calling, python, langgraph and collaborate with product and data teams."
+ },
+ {
+  "id": "J002",
+  "role": "ai_engineer",
+  "title": "Associate AI Engineer",
+  "company": "Orbit Hire",
+  "location": "Mumbai",
+  "min_years": 1,
+  "skills": [
+   "llm",
+   "embeddings",
+   "fastapi",
+   "python",
+   "langgraph"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with llm, embeddings, fastapi, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J003",
+  "role": "ai_engineer",
+  "title": "Senior AI Engineer",
+  "company": "DataHarbor",
+  "location": "Mumbai",
+  "min_years": 5,
+  "skills": [
+   "llm",
+   "langgraph",
+   "tool calling",
+   "prompt engineering",
+   "python"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with llm, langgraph, tool calling, prompt engineering and collaborate with product and data teams."
+ },
+ {
+  "id": "J004",
+  "role": "ai_engineer",
+  "title": "Senior AI Engineer",
+  "company": "Quanta Works",
+  "location": "Bengaluru",
+  "min_years": 5,
+  "skills": [
+   "embeddings",
+   "python",
+   "prompt engineering",
+   "llm",
+   "rag"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with embeddings, python, prompt engineering, llm and collaborate with product and data teams."
+ },
+ {
+  "id": "J005",
+  "role": "ai_engineer",
+  "title": "Intern AI Engineer",
+  "company": "Pixel Forge",
+  "location": "Gurugram",
+  "min_years": 0,
+  "skills": [
+   "rag",
+   "python",
+   "prompt engineering",
+   "tool calling",
+   "llm",
+   "embeddings",
+   "fastapi"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with rag, python, prompt engineering, tool calling and collaborate with product and data teams."
+ },
+ {
+  "id": "J006",
+  "role": "ai_engineer",
+  "title": "Intern AI Engineer",
+  "company": "BlueLeaf",
+  "location": "Remote",
+  "min_years": 0,
+  "skills": [
+   "embeddings",
+   "langgraph",
+   "tool calling",
+   "prompt engineering",
+   "fastapi"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with embeddings, langgraph, tool calling, prompt engineering and collaborate with product and data teams."
+ },
+ {
+  "id": "J007",
+  "role": "ai_engineer",
+  "title": "Senior AI Engineer",
+  "company": "Pixel Forge",
+  "location": "Remote",
+  "min_years": 5,
+  "skills": [
+   "prompt engineering",
+   "llm",
+   "fastapi",
+   "tool calling",
+   "python",
+   "rag",
+   "langgraph"
+  ],
+  "description": "Build LLM-powered agents with tool integration and memory, structured outputs and evaluation. You will work with prompt engineering, llm, fastapi, tool calling and collaborate with product and data teams."
+ },
+ {
+  "id": "J008",
+  "role": "search_engineer",
+  "title": "Search Engineer",
+  "company": "HireLoop",
+  "location": "Remote",
+  "min_years": 2,
+  "skills": [
+   "qdrant",
+   "sql",
+   "elasticsearch",
+   "python",
+   "embeddings",
+   "reranking",
+   "bm25",
+   "semantic search"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with qdrant, sql, elasticsearch, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J009",
+  "role": "search_engineer",
+  "title": "Intern Search Engineer",
+  "company": "DataHarbor",
+  "location": "Remote",
+  "min_years": 0,
+  "skills": [
+   "python",
+   "semantic search",
+   "sql",
+   "reranking",
+   "embeddings"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with python, semantic search, sql, reranking and collaborate with product and data teams."
+ },
+ {
+  "id": "J010",
+  "role": "search_engineer",
+  "title": "Intern Search Engineer",
+  "company": "Kiwi Systems",
+  "location": "Gurugram",
+  "min_years": 0,
+  "skills": [
+   "qdrant",
+   "embeddings",
+   "python",
+   "elasticsearch",
+   "sql"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with qdrant, embeddings, python, elasticsearch and collaborate with product and data teams."
+ },
+ {
+  "id": "J011",
+  "role": "search_engineer",
+  "title": "Senior Search Engineer",
+  "company": "DataHarbor",
+  "location": "Pune",
+  "min_years": 5,
+  "skills": [
+   "reranking",
+   "python",
+   "semantic search",
+   "elasticsearch",
+   "embeddings",
+   "bm25",
+   "qdrant"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with reranking, python, semantic search, elasticsearch and collaborate with product and data teams."
+ },
+ {
+  "id": "J012",
+  "role": "search_engineer",
+  "title": "Senior Search Engineer",
+  "company": "Quanta Works",
+  "location": "Remote",
+  "min_years": 5,
+  "skills": [
+   "embeddings",
+   "reranking",
+   "semantic search",
+   "bm25",
+   "qdrant"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with embeddings, reranking, semantic search, bm25 and collaborate with product and data teams."
+ },
+ {
+  "id": "J013",
+  "role": "search_engineer",
+  "title": "Senior Search Engineer",
+  "company": "Nimbus AI",
+  "location": "Remote",
+  "min_years": 5,
+  "skills": [
+   "semantic search",
+   "embeddings",
+   "reranking",
+   "qdrant",
+   "sql"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with semantic search, embeddings, reranking, qdrant and collaborate with product and data teams."
+ },
+ {
+  "id": "J014",
+  "role": "search_engineer",
+  "title": "Search Engineer",
+  "company": "TalentGraph",
+  "location": "Gurugram",
+  "min_years": 2,
+  "skills": [
+   "python",
+   "sql",
+   "embeddings",
+   "bm25",
+   "qdrant",
+   "elasticsearch",
+   "semantic search",
+   "reranking"
+  ],
+  "description": "Own semantic and hybrid search across large catalogs, ranking, relevance tuning and query understanding. You will work with python, sql, embeddings, bm25 and collaborate with product and data teams."
+ },
+ {
+  "id": "J015",
+  "role": "recsys_engineer",
+  "title": "Associate Recommender Systems Engineer",
+  "company": "Kiwi Systems",
+  "location": "Pune",
+  "min_years": 1,
+  "skills": [
+   "airflow",
+   "redis",
+   "ranking",
+   "python",
+   "sql"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with airflow, redis, ranking, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J016",
+  "role": "recsys_engineer",
+  "title": "Associate Recommender Systems Engineer",
+  "company": "Pixel Forge",
+  "location": "Remote",
+  "min_years": 1,
+  "skills": [
+   "personalization",
+   "ranking",
+   "redis",
+   "sql",
+   "python",
+   "airflow",
+   "recommender systems",
+   "collaborative filtering"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with personalization, ranking, redis, sql and collaborate with product and data teams."
+ },
+ {
+  "id": "J017",
+  "role": "recsys_engineer",
+  "title": "Senior Recommender Systems Engineer",
+  "company": "HireLoop",
+  "location": "Bengaluru",
+  "min_years": 5,
+  "skills": [
+   "redis",
+   "recommender systems",
+   "collaborative filtering",
+   "personalization",
+   "airflow",
+   "ranking",
+   "sql",
+   "python"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with redis, recommender systems, collaborative filtering, personalization and collaborate with product and data teams."
+ },
+ {
+  "id": "J018",
+  "role": "recsys_engineer",
+  "title": "Intern Recommender Systems Engineer",
+  "company": "BlueLeaf",
+  "location": "Mumbai",
+  "min_years": 0,
+  "skills": [
+   "recommender systems",
+   "airflow",
+   "redis",
+   "ranking",
+   "python",
+   "sql",
+   "personalization"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with recommender systems, airflow, redis, ranking and collaborate with product and data teams."
+ },
+ {
+  "id": "J019",
+  "role": "recsys_engineer",
+  "title": "Intern Recommender Systems Engineer",
+  "company": "BlueLeaf",
+  "location": "Mumbai",
+  "min_years": 0,
+  "skills": [
+   "collaborative filtering",
+   "ranking",
+   "airflow",
+   "python",
+   "sql"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with collaborative filtering, ranking, airflow, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J020",
+  "role": "recsys_engineer",
+  "title": "Recommender Systems Engineer",
+  "company": "Nimbus AI",
+  "location": "Pune",
+  "min_years": 2,
+  "skills": [
+   "python",
+   "recommender systems",
+   "collaborative filtering",
+   "personalization",
+   "ranking",
+   "airflow",
+   "sql",
+   "redis"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with python, recommender systems, collaborative filtering, personalization and collaborate with product and data teams."
+ },
+ {
+  "id": "J021",
+  "role": "recsys_engineer",
+  "title": "Recommender Systems Engineer",
+  "company": "Nimbus AI",
+  "location": "Gurugram",
+  "min_years": 2,
+  "skills": [
+   "airflow",
+   "redis",
+   "personalization",
+   "python",
+   "recommender systems",
+   "collaborative filtering",
+   "ranking"
+  ],
+  "description": "Develop personalised recommendation and ranking systems using user behaviour signals. You will work with airflow, redis, personalization, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J022",
+  "role": "backend_engineer",
+  "title": "Intern Backend Engineer",
+  "company": "TalentGraph",
+  "location": "Mumbai",
+  "min_years": 0,
+  "skills": [
+   "fastapi",
+   "docker",
+   "postgres",
+   "rest apis",
+   "redis",
+   "python",
+   "aws"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with fastapi, docker, postgres, rest apis and collaborate with product and data teams."
+ },
+ {
+  "id": "J023",
+  "role": "backend_engineer",
+  "title": "Backend Engineer",
+  "company": "Pixel Forge",
+  "location": "Remote",
+  "min_years": 2,
+  "skills": [
+   "sql",
+   "redis",
+   "fastapi",
+   "aws",
+   "docker",
+   "python"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with sql, redis, fastapi, aws and collaborate with product and data teams."
+ },
+ {
+  "id": "J024",
+  "role": "backend_engineer",
+  "title": "Backend Engineer",
+  "company": "TalentGraph",
+  "location": "Gurugram",
+  "min_years": 2,
+  "skills": [
+   "python",
+   "redis",
+   "postgres",
+   "sql",
+   "docker"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with python, redis, postgres, sql and collaborate with product and data teams."
+ },
+ {
+  "id": "J025",
+  "role": "backend_engineer",
+  "title": "Backend Engineer",
+  "company": "BlueLeaf",
+  "location": "Bengaluru",
+  "min_years": 2,
+  "skills": [
+   "docker",
+   "postgres",
+   "python",
+   "fastapi",
+   "aws",
+   "sql",
+   "rest apis",
+   "redis"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with docker, postgres, python, fastapi and collaborate with product and data teams."
+ },
+ {
+  "id": "J026",
+  "role": "backend_engineer",
+  "title": "Senior Backend Engineer",
+  "company": "Quanta Works",
+  "location": "Gurugram",
+  "min_years": 5,
+  "skills": [
+   "aws",
+   "docker",
+   "postgres",
+   "python",
+   "rest apis"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with aws, docker, postgres, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J027",
+  "role": "backend_engineer",
+  "title": "Associate Backend Engineer",
+  "company": "Quanta Works",
+  "location": "Gurugram",
+  "min_years": 1,
+  "skills": [
+   "postgres",
+   "sql",
+   "docker",
+   "aws",
+   "python",
+   "rest apis",
+   "fastapi",
+   "redis"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with postgres, sql, docker, aws and collaborate with product and data teams."
+ },
+ {
+  "id": "J028",
+  "role": "backend_engineer",
+  "title": "Intern Backend Engineer",
+  "company": "Nimbus AI",
+  "location": "Mumbai",
+  "min_years": 0,
+  "skills": [
+   "postgres",
+   "fastapi",
+   "python",
+   "redis",
+   "sql",
+   "aws"
+  ],
+  "description": "Design and deploy reliable backend services and APIs into production. You will work with postgres, fastapi, python, redis and collaborate with product and data teams."
+ },
+ {
+  "id": "J029",
+  "role": "ml_engineer",
+  "title": "Senior ML Engineer",
+  "company": "Pixel Forge",
+  "location": "Gurugram",
+  "min_years": 5,
+  "skills": [
+   "mlops",
+   "aws",
+   "sql",
+   "pytorch",
+   "python",
+   "docker",
+   "feature engineering"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with mlops, aws, sql, pytorch and collaborate with product and data teams."
+ },
+ {
+  "id": "J030",
+  "role": "ml_engineer",
+  "title": "Associate ML Engineer",
+  "company": "DataHarbor",
+  "location": "Hyderabad",
+  "min_years": 1,
+  "skills": [
+   "docker",
+   "sql",
+   "pytorch",
+   "python",
+   "mlops",
+   "aws",
+   "evaluation",
+   "feature engineering"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with docker, sql, pytorch, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J031",
+  "role": "ml_engineer",
+  "title": "ML Engineer",
+  "company": "Pixel Forge",
+  "location": "Bengaluru",
+  "min_years": 2,
+  "skills": [
+   "mlops",
+   "python",
+   "evaluation",
+   "feature engineering",
+   "docker",
+   "aws",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with mlops, python, evaluation, feature engineering and collaborate with product and data teams."
+ },
+ {
+  "id": "J032",
+  "role": "ml_engineer",
+  "title": "Intern ML Engineer",
+  "company": "Pixel Forge",
+  "location": "Pune",
+  "min_years": 0,
+  "skills": [
+   "mlops",
+   "aws",
+   "python",
+   "pytorch",
+   "sql",
+   "evaluation",
+   "docker",
+   "feature engineering"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with mlops, aws, python, pytorch and collaborate with product and data teams."
+ },
+ {
+  "id": "J033",
+  "role": "ml_engineer",
+  "title": "ML Engineer",
+  "company": "Pixel Forge",
+  "location": "Remote",
+  "min_years": 2,
+  "skills": [
+   "pytorch",
+   "aws",
+   "python",
+   "feature engineering",
+   "sql",
+   "docker",
+   "evaluation",
+   "mlops"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with pytorch, aws, python, feature engineering and collaborate with product and data teams."
+ },
+ {
+  "id": "J034",
+  "role": "ml_engineer",
+  "title": "Intern ML Engineer",
+  "company": "Kiwi Systems",
+  "location": "Remote",
+  "min_years": 0,
+  "skills": [
+   "feature engineering",
+   "mlops",
+   "aws",
+   "evaluation",
+   "pytorch"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with feature engineering, mlops, aws, evaluation and collaborate with product and data teams."
+ },
+ {
+  "id": "J035",
+  "role": "ml_engineer",
+  "title": "Senior ML Engineer",
+  "company": "Orbit Hire",
+  "location": "Remote",
+  "min_years": 5,
+  "skills": [
+   "aws",
+   "feature engineering",
+   "pytorch",
+   "docker",
+   "evaluation",
+   "sql"
+  ],
+  "description": "Train, evaluate and deploy machine learning models and monitor them in production. You will work with aws, feature engineering, pytorch, docker and collaborate with product and data teams."
+ },
+ {
+  "id": "J036",
+  "role": "data_engineer",
+  "title": "Senior Data Engineer",
+  "company": "Orbit Hire",
+  "location": "Bengaluru",
+  "min_years": 5,
+  "skills": [
+   "sql",
+   "aws",
+   "docker",
+   "spark",
+   "python",
+   "postgres",
+   "kafka"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with sql, aws, docker, spark and collaborate with product and data teams."
+ },
+ {
+  "id": "J037",
+  "role": "data_engineer",
+  "title": "Data Engineer",
+  "company": "HireLoop",
+  "location": "Bengaluru",
+  "min_years": 2,
+  "skills": [
+   "postgres",
+   "sql",
+   "spark",
+   "kafka",
+   "python",
+   "docker"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with postgres, sql, spark, kafka and collaborate with product and data teams."
+ },
+ {
+  "id": "J038",
+  "role": "data_engineer",
+  "title": "Associate Data Engineer",
+  "company": "BlueLeaf",
+  "location": "Hyderabad",
+  "min_years": 1,
+  "skills": [
+   "kafka",
+   "postgres",
+   "spark",
+   "airflow",
+   "aws",
+   "python"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with kafka, postgres, spark, airflow and collaborate with product and data teams."
+ },
+ {
+  "id": "J039",
+  "role": "data_engineer",
+  "title": "Intern Data Engineer",
+  "company": "Quanta Works",
+  "location": "Hyderabad",
+  "min_years": 0,
+  "skills": [
+   "python",
+   "airflow",
+   "postgres",
+   "spark",
+   "aws",
+   "kafka",
+   "docker"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with python, airflow, postgres, spark and collaborate with product and data teams."
+ },
+ {
+  "id": "J040",
+  "role": "data_engineer",
+  "title": "Data Engineer",
+  "company": "Kiwi Systems",
+  "location": "Hyderabad",
+  "min_years": 2,
+  "skills": [
+   "sql",
+   "kafka",
+   "docker",
+   "python",
+   "postgres"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with sql, kafka, docker, python and collaborate with product and data teams."
+ },
+ {
+  "id": "J041",
+  "role": "data_engineer",
+  "title": "Intern Data Engineer",
+  "company": "Nimbus AI",
+  "location": "Mumbai",
+  "min_years": 0,
+  "skills": [
+   "postgres",
+   "kafka",
+   "sql",
+   "spark",
+   "airflow",
+   "aws"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with postgres, kafka, sql, spark and collaborate with product and data teams."
+ },
+ {
+  "id": "J042",
+  "role": "data_engineer",
+  "title": "Senior Data Engineer",
+  "company": "Zenith Labs",
+  "location": "Gurugram",
+  "min_years": 5,
+  "skills": [
+   "sql",
+   "airflow",
+   "python",
+   "docker",
+   "spark",
+   "aws",
+   "postgres"
+  ],
+  "description": "Build data pipelines that feed analytics and ML systems at scale. You will work with sql, airflow, python, docker and collaborate with product and data teams."
+ },
+ {
+  "id": "J043",
+  "role": "fullstack_engineer",
+  "title": "Intern Full Stack Engineer",
+  "company": "Zenith Labs",
+  "location": "Hyderabad",
+  "min_years": 0,
+  "skills": [
+   "react",
+   "postgres",
+   "aws",
+   "typescript",
+   "next.js",
+   "rest apis",
+   "docker"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with react, postgres, aws, typescript and collaborate with product and data teams."
+ },
+ {
+  "id": "J044",
+  "role": "fullstack_engineer",
+  "title": "Senior Full Stack Engineer",
+  "company": "Zenith Labs",
+  "location": "Bengaluru",
+  "min_years": 5,
+  "skills": [
+   "next.js",
+   "typescript",
+   "postgres",
+   "react",
+   "rest apis",
+   "node.js",
+   "docker"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with next.js, typescript, postgres, react and collaborate with product and data teams."
+ },
+ {
+  "id": "J045",
+  "role": "fullstack_engineer",
+  "title": "Associate Full Stack Engineer",
+  "company": "Kiwi Systems",
+  "location": "Hyderabad",
+  "min_years": 1,
+  "skills": [
+   "postgres",
+   "aws",
+   "react",
+   "next.js",
+   "node.js",
+   "rest apis",
+   "typescript"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with postgres, aws, react, next.js and collaborate with product and data teams."
+ },
+ {
+  "id": "J046",
+  "role": "fullstack_engineer",
+  "title": "Intern Full Stack Engineer",
+  "company": "TalentGraph",
+  "location": "Remote",
+  "min_years": 0,
+  "skills": [
+   "typescript",
+   "aws",
+   "rest apis",
+   "postgres",
+   "react",
+   "next.js",
+   "node.js"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with typescript, aws, rest apis, postgres and collaborate with product and data teams."
+ },
+ {
+  "id": "J047",
+  "role": "fullstack_engineer",
+  "title": "Intern Full Stack Engineer",
+  "company": "BlueLeaf",
+  "location": "Bengaluru",
+  "min_years": 0,
+  "skills": [
+   "aws",
+   "postgres",
+   "node.js",
+   "rest apis",
+   "next.js",
+   "docker",
+   "typescript",
+   "react"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with aws, postgres, node.js, rest apis and collaborate with product and data teams."
+ },
+ {
+  "id": "J048",
+  "role": "fullstack_engineer",
+  "title": "Associate Full Stack Engineer",
+  "company": "Nimbus AI",
+  "location": "Pune",
+  "min_years": 1,
+  "skills": [
+   "docker",
+   "typescript",
+   "react",
+   "rest apis",
+   "postgres",
+   "next.js",
+   "aws",
+   "node.js"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with docker, typescript, react, rest apis and collaborate with product and data teams."
+ },
+ {
+  "id": "J049",
+  "role": "fullstack_engineer",
+  "title": "Intern Full Stack Engineer",
+  "company": "Kiwi Systems",
+  "location": "Remote",
+  "min_years": 0,
+  "skills": [
+   "postgres",
+   "aws",
+   "react",
+   "next.js",
+   "typescript",
+   "docker",
+   "node.js",
+   "rest apis"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with postgres, aws, react, next.js and collaborate with product and data teams."
+ },
+ {
+  "id": "J050",
+  "role": "fullstack_engineer",
+  "title": "Intern Full Stack Engineer",
+  "company": "TalentGraph",
+  "location": "Hyderabad",
+  "min_years": 0,
+  "skills": [
+   "docker",
+   "next.js",
+   "postgres",
+   "rest apis",
+   "react",
+   "typescript",
+   "node.js"
+  ],
+  "description": "Ship product features end-to-end, from UI to database, for live users. You will work with docker, next.js, postgres, rest apis and collaborate with product and data teams."
+ },
+ {
+  "id": "J051",
+  "role": "devops_engineer",
+  "title": "Associate DevOps Engineer",
+  "company": "Pixel Forge",
+  "location": "Gurugram",
+  "min_years": 1,
+  "skills": [
+   "linux",
+   "terraform",
+   "docker",
+   "monitoring",
+   "aws"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with linux, terraform, docker, monitoring and collaborate with product and data teams."
+ },
+ {
+  "id": "J052",
+  "role": "devops_engineer",
+  "title": "Associate DevOps Engineer",
+  "company": "DataHarbor",
+  "location": "Pune",
+  "min_years": 1,
+  "skills": [
+   "docker",
+   "python",
+   "aws",
+   "monitoring",
+   "kubernetes",
+   "terraform"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with docker, python, aws, monitoring and collaborate with product and data teams."
+ },
+ {
+  "id": "J053",
+  "role": "devops_engineer",
+  "title": "Senior DevOps Engineer",
+  "company": "DataHarbor",
+  "location": "Mumbai",
+  "min_years": 5,
+  "skills": [
+   "ci/cd",
+   "aws",
+   "linux",
+   "kubernetes",
+   "docker"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with ci/cd, aws, linux, kubernetes and collaborate with product and data teams."
+ },
+ {
+  "id": "J054",
+  "role": "devops_engineer",
+  "title": "Associate DevOps Engineer",
+  "company": "Pixel Forge",
+  "location": "Gurugram",
+  "min_years": 1,
+  "skills": [
+   "linux",
+   "python",
+   "terraform",
+   "kubernetes",
+   "aws",
+   "monitoring",
+   "docker",
+   "ci/cd"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with linux, python, terraform, kubernetes and collaborate with product and data teams."
+ },
+ {
+  "id": "J055",
+  "role": "devops_engineer",
+  "title": "Senior DevOps Engineer",
+  "company": "Zenith Labs",
+  "location": "Pune",
+  "min_years": 5,
+  "skills": [
+   "docker",
+   "monitoring",
+   "linux",
+   "ci/cd",
+   "kubernetes",
+   "python"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with docker, monitoring, linux, ci/cd and collaborate with product and data teams."
+ },
+ {
+  "id": "J056",
+  "role": "devops_engineer",
+  "title": "Associate DevOps Engineer",
+  "company": "Pixel Forge",
+  "location": "Gurugram",
+  "min_years": 1,
+  "skills": [
+   "kubernetes",
+   "terraform",
+   "monitoring",
+   "ci/cd",
+   "docker",
+   "aws",
+   "linux"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with kubernetes, terraform, monitoring, ci/cd and collaborate with product and data teams."
+ },
+ {
+  "id": "J057",
+  "role": "devops_engineer",
+  "title": "Associate DevOps Engineer",
+  "company": "Kiwi Systems",
+  "location": "Pune",
+  "min_years": 1,
+  "skills": [
+   "ci/cd",
+   "docker",
+   "terraform",
+   "monitoring",
+   "python",
+   "aws",
+   "linux",
+   "kubernetes"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with ci/cd, docker, terraform, monitoring and collaborate with product and data teams."
+ },
+ {
+  "id": "J058",
+  "role": "devops_engineer",
+  "title": "DevOps Engineer",
+  "company": "Orbit Hire",
+  "location": "Remote",
+  "min_years": 2,
+  "skills": [
+   "terraform",
+   "kubernetes",
+   "linux",
+   "python",
+   "ci/cd",
+   "monitoring"
+  ],
+  "description": "Automate cloud infrastructure, deployments and observability. You will work with terraform, kubernetes, linux, python and collaborate with product and data teams."
+ }
+]
